@@ -1,2 +1,2 @@
 # Els-repozit-rium
-Ez most kész van?
+Ez most kész van ?
